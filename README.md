@@ -1,2 +1,2 @@
 # Game-Making-with-Unity
-This repo belongs to game making course offered at university of Khayyam
+This repo belongs to game development course offered at university of Khayyam

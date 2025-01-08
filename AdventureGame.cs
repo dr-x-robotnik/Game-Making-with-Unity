@@ -74,13 +74,13 @@ public class AdventureGame : MonoBehaviour
 	void Escape()
 	{
 		if (enemyType == "Dragon")
-    	{
-			Debug.Log("You cannot escape from the Dragon!");
-    	}
-    	else
-    	{
-        	Debug.Log("You escaped successfully!");
-    	}
+    		{
+      			Debug.Log("You cannot escape from the Dragon!");
+    		}
+    		else
+    		{
+        		Debug.Log("You escaped successfully!");
+    		}
 	}
 
 }

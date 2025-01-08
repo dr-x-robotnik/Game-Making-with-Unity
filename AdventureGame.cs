@@ -33,10 +33,10 @@ public class AdventureGame : MonoBehaviour
 			Escape();
 		}
 		if (!isEnemyVisible && energy < 10)
-    	{
+    		{
         	Debug.Log("You found an energy potion!");
         	energy += 20;
-    	}
+    		}
 	}
 
 	void Update()
